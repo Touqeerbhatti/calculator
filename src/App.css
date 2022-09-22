@@ -1,0 +1,44 @@
+
+
+.main-div{
+  background-color: rgb(209, 202, 202);
+  height: 97vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sub-div{
+  background-color: rgb(104, 110, 110);
+  padding: 10px;
+  width: 40vh;
+  text-align: center;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #4d5462;
+  
+}
+
+.input-tag{
+  width: 80%;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 8px;
+  
+}
+
+.btn{
+  font-size: 40px;
+  padding: 20px;
+  width: 22%;
+  border-radius: 8px;
+}
+
+.btn:hover{
+  background-color: #a8daaa;
+  color: white;
+}
+
+.btn-div{
+  text-align: center;
+}
